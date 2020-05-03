@@ -13,3 +13,19 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  background: #555;
+  color: white;
+  padding: '7px 10px';
+  border: none;
+}
+
+.btn:hover {
+  background: #666;
+  cursor: pointer;
+}
